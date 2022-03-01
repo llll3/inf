@@ -1,0 +1,52 @@
+'}'
+
+
+str ='          '
+print (str)
+str ='          '
+print (str)
+str ='inf-[предмет][цифра]'
+print (str)
+str ='		'
+print (str)
+str ='		'
+print (str)
+str ='[ЦИФРА]'
+print (str)
+str ='SMS-[1]'
+print (str)
+str ='CALL-[2]'
+print (str)
+str ='SMS THE CALL-[3]'
+print (str)
+
+
+
+str ='          '
+print (str)
+str ='          '
+print (str)
+str ='[ПРЕДМЕТ]'
+print (str)
+str ='alg-алгебра'
+print (str)
+str ='geo-география'
+print (str)
+str ='russ-русский'
+print (str)
+str ='xim-химия'
+print (str)
+str ='fiz-физика'
+print (str)
+str ='ist-история'
+print (str)
+str ='ang-английский'
+print (str)
+str ='tex-технология'
+print (str)
+str ='inf-информатика'
+print (str)
+str ='bio-биология'
+print (str)
+'}'
+
